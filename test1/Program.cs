@@ -6,6 +6,7 @@ namespace test1
     {
         public static void Main(string[] args)
         {
+			// Added some comments
             Console.WriteLine("Hello World new feature!");
         }
     }
